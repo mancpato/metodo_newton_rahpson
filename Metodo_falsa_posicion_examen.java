@@ -43,7 +43,7 @@ public class Metodo_falsa_posicion_examen {
             
             
             do{
-                iteracion++;
+                iteracion--;
                 
                 ma=m;
                 System.out.println("ma: "+ma);
